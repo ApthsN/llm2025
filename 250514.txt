@@ -1,0 +1,20 @@
+250514: 
+>pip install sentence-transformers faiss-cpu transformers pdfplumber
+( install pip  in the path floder locate)
+เขียนโค้ดไว้ใน   vscode name - edgeAI
+
+result for thai pdf
+>> can read pdf file but answer not right
+
+result for en
+>> can read pdf file but answer not perfect right
+
+setting for edge ai
+1.install >python lates version
+2.insaill >pip install sentence-transformers faiss-cpu transformers pdfplumber 
+#1( install pip  in the path folder located)
+#2 if not work have to download get pip "C:\Users\kimkl\get-pip.py"  to user folder
+3.write code (projectname).py code and put file path on #5 and question in #8 
+4.open terminal run EdgeAI.py 
+5.get result
+
